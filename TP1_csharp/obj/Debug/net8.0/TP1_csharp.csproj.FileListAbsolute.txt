@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\bin\Debug\net8.0\TP1_csharp.exe
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\bin\Debug\net8.0\TP1_csharp.deps.json
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\bin\Debug\net8.0\TP1_csharp.runtimeconfig.json
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\bin\Debug\net8.0\TP1_csharp.dll
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\bin\Debug\net8.0\TP1_csharp.pdb
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.AssemblyInfo.cs
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.sourcelink.json
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.dll
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\refint\TP1_csharp.dll
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.pdb
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\TP1_csharp.genruntimeconfig.cache
+C:\Users\aluno\Desktop\TP1_csharp\TP1_csharp\TP1_csharp\obj\Debug\net8.0\ref\TP1_csharp.dll
